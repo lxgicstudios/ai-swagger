@@ -1,5 +1,5 @@
 {
-  "name": "ai-swagger",
+  "name": "@lxgicstudios/ai-swagger",
   "version": "1.0.0",
   "description": "AI-powered Swagger doc generator - OpenAPI specs from code with GPT",
   "main": "dist/index.js",
